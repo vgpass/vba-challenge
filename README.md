@@ -1,7 +1,9 @@
 # vba-challenge
 
 Repo for module 2 stock analysis challenge
+
 Vincent Passanisi
+
 October 2022
 
 Due Octobe 24, 2022
@@ -13,8 +15,11 @@ This repo contains the required files for the Stock-Analysis VBA Challenge for V
 # Files
 
 **stock_analysis_sub** is the VB file for my subroutine
+
 **2018_stock_analysis** is a screenshot of the results of my subroutine for the 2018 data tab.
+
 **2019_stock_analysis** is a screenshot of the results of my subroutine for the 2019 data tab.
+
 **2020_stock_analysis** is a screenshot of the results of my subroutine for the 2020 data tab.
 
 # Results
