@@ -6,7 +6,7 @@ Vincent Passanisi
 
 October 2022
 
-Due Octobe 24, 2022
+Due October 24, 2022
 
 # Description
 
