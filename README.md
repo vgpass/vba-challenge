@@ -14,7 +14,9 @@ This repo contains the required files for the Stock-Analysis VBA Challenge for V
 
 # Files
 
-**stock_analysis_sub** is the VB file for my subroutine
+**stock_analysis_sub.vb** is the VB file for my subroutine
+
+**stock_analysis_sub.vbs** is the VBS file for my subroutine (Wasn't certain what file type to use so included both for my script)
 
 **2018_stock_analysis** is a screenshot of the results of my subroutine for the 2018 data tab.
 
